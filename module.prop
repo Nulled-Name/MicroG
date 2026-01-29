@@ -4,4 +4,4 @@ version=Dev
 versionCode=0
 author=Shadow
 description=NONE
-updateJson=
+updateJson=https://github.com/Nulled-Name/MicroG/raw/main/update.json
